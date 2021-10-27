@@ -1,0 +1,10 @@
+﻿.grid{
+    display:flex;
+    flex-wrap:wrap;
+    height:300px;
+    width:400px;
+    align-self: center;
+    position: fixed;
+    left:15%;
+    top:15%;
+}
